@@ -1,0 +1,89 @@
+body {
+    text-align: center;
+      color: #c2bfbf;
+      font-family: 'Lato', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+
+    img.logo {
+      border-radius: 50%;
+      border:5px solid #35066b;
+      margin-top: 70px;
+      margin-right: 330px;
+      height: auto;
+      }
+
+
+
+/* Style the navigation bar */
+.navbar {
+  font-family: 'Lato', sans-serif;
+  width: 36%;
+  background-color: #35066b;
+  overflow: visible;
+  border-radius:  10px/10px;
+}
+
+/* Navbar links */
+.navbar a {
+  font-family: 'Lato', sans-serif;
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: rgb(178, 137, 231);
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Navbar links on mouse-over */
+.navbar a:hover {
+  background-color: #35066b;
+  border-radius:  10px/10px;
+}
+
+/* Current/active navbar link */
+.inactive {
+  background-color: #492268;
+}
+
+/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+
+
+
+
+  
+  p {
+    text-align: center;
+      color: rgb(251, 255, 0);
+      font-family: 'Lato', sans-serif;
+    }
+  
+h1 {
+
+color: rgb(178, 137, 231);
+  
+  }
+
+  .social1 {
+    height: 50%;
+    width: 2%;
+    color: rgb(255, 255, 255);
+
+      
+      }
+
+      .social2 {
+        height: 50%;
+        width: 2%;
+        color: rgb(255, 255, 255);
+          
+          }    
+  
