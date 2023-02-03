@@ -10,6 +10,7 @@
 <div>
   <img src="https://github.com/bugskekw/img/blob/main/kisiselsite.jpg?raw=true"/>
 </div>
+
 ---
 
 **MİT lisansı bulunmaktadır**
